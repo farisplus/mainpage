@@ -46,3 +46,8 @@ margin-top: 8%;
     color: var(--bs-btn-hover-color);
      background-color: none !important;
 }
+.btn:first-child:hover, :not(.btn-check)+.btn:hover {
+    color: var(--bs-btn-hover-color);
+    background-color: #e23b5d !important;
+    border-color: none !important;
+}
