@@ -1,0 +1,44 @@
+.container{
+    width: 80% !important;
+    margin: auto !important;
+}
+body{
+background-image: url(https://cdn.salla.sa/ggdVb/RntE0RRTYA31KsykWuxrhFDMfLInDxRfRekPIFWx.png) ; background-repeat: no-repeat ; background-size: 100% ; background-position: center; background-size: cover;}
+
+
+.card-1{
+    /* margin-top:3%; */
+    /* padding: 9%;
+    width: 100%; */
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    --bs-gutter-x: 0.5rem;}
+
+/* .card-1{
+    margin-top:20% !important;
+margin-bottom: 30%;} */
+.row{
+    --bs-gutter-x: -0.5rem !important;
+}
+.btn{
+    padding: var(--bs-btn-padding-y) var(--bs-btn-padding-x) !important;
+    
+    display: inline !important;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+    /* padding: 2%; */
+    text-align: center;
+}
+.card {
+    --bs-card-border-width: 0px !important;
+    border-radius: 50%;
+}
+.card-background{
+
+        background: gray;
+    
+}
+.mm{
+margin-top: 8%;
+}
